@@ -66,7 +66,7 @@ spring.datasource.password=tu_contraseña
 
 ./mvnw spring-boot:run
 
-🚀 Tecnologías utilizadas
+Tecnologías utilizadas
 
     Java 17
 
